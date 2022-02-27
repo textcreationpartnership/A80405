@@ -1,0 +1,467 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carmina colloquia: or, A demonaicall and damnable dialogue, between the Devil &amp; an independent. Written in the last year of our freedome: and first of our bondage, by the permission of God, and commission of the Devil. By Fardinando Fallall, at Edinburgh. And dedicated to all our friends about Whinfield-knot.</title>
+            <author>Fardinando Fallall.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80405</idno>
+            <idno type="STC">Wing C602</idno>
+            <idno type="STC">Thomason E559_6</idno>
+            <idno type="STC">ESTC R205917</idno>
+            <idno type="EEBO-CITATION">99865143</idno>
+            <idno type="PROQUEST">99865143</idno>
+            <idno type="VID">165175</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165175)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E559[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Carmina colloquia: or, A demonaicall and damnable dialogue, between the Devil &amp; an independent. Written in the last year of our freedome: and first of our bondage, by the permission of God, and commission of the Devil. By Fardinando Fallall, at Edinburgh. And dedicated to all our friends about Whinfield-knot.</title>
+                  <author>Fardinando Fallall.</author>
+               </titleStmt>
+               <extent>[2], 8, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Fardinando Fallall is a pseudonym.</note>
+                  <note>In verse.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "June 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  17th century.</term>
+               <term>Independent churches --  England --  Early works to 1800.</term>
+               <term>Congregationalists --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Pamphlets.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165175:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <p>
+               <hi>CARMINA COLLOQ<g ref="char:V">Ʋ</g>IA:</hi> OR, A Demonaicall and Damnable <hi>Dialogue,</hi> BETWEEN THE DEVIL &amp; AN INDEPENDENT.</p>
+            <p>Written in the laſt year of our Freedome: and firſt of our Bondage, by the permiſſion of God, and Commiſſion of the Devil.</p>
+            <p>By <hi>Fardinando Fallall,</hi> at <hi>Edinburgh.</hi>
+            </p>
+            <p>And Dedicated to all our friends about <hi>Whinfield</hi>-knot.</p>
+            <q xml:lang="lat">
+               <l>Flectere ſi nequeo, ſuperos Acheronta movebo.</l>
+            </q>
+            <p>Printed in the Year, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:165175:2"/>
+            <!-- PDF PAGE 62 -->
+            <pb n="1" facs="tcp:165175:2"/>
+            <!-- PDF PAGE 62 -->
+            <head>
+               <hi>CARMINA GOLLOQ<g ref="char:V">Ʋ</g>IA: OR,</hi> A Demonaical and Damnable <hi>Dialogue,</hi> between the <hi>Devil</hi> and the <hi>Independent,</hi> &amp;c.</head>
+            <sp>
+               <speaker>Devil.</speaker>
+               <l>MY Dear adopted heire, mine only ſon,</l>
+               <l>Thou that haſt fought, and all my battails won</l>
+               <l>Inlarg'd my kingdom, and with thouſand ſouls</l>
+               <l>Fill'd up the Catalogue of my ſulphury rowles;</l>
+               <l>Did not Religion (ſon) diſguiſe thee right</l>
+               <l>To exerciſe both policy and might,</l>
+               <l>'Tis like a ſhip-mans hoſe, which as you pleaſe</l>
+               <l>Will any way wreſt to give the owner eaſe:</l>
+               <l>'Tis like a ſhooing-horne that will draw</l>
+               <l>Any thing one, and make it ſeeme a law,</l>
+               <l>A ſtalking-horſe, where under we may lurke</l>
+               <l>Till we have accompliſh'd our intended work,</l>
+               <l>'Tis a brave guilded maſk that blears the eye,</l>
+               <l>And makes a lye ſeem true, and truth a lye.</l>
+            </sp>
+            <sp>
+               <speaker>Independent.</speaker>
+               <l>I do confeſs (dear father) you have don</l>
+               <l>As much for me, as e're you did for ſon;</l>
+               <l>For which I vow hereafter for to ſac're</l>
+               <l>Thoſe dues to you I owe unto my maker,</l>
+               <l>
+                  <pb n="2" facs="tcp:165175:3"/>
+                  <!-- PDF PAGE 63 -->
+And more and more endeavour art and powers,</l>
+               <l>T'aſſure your hopes that I'm obliged yours;</l>
+               <l>Yet am I but a paſſive inſtrument</l>
+               <l>In your wiſe hands, to prefect the intent,</l>
+               <l>The conqueſt that I won, belong to you,</l>
+               <l>And I hold it juſt to give the Devill his due,</l>
+               <l>The Saints of God, although I cannot ill them,</l>
+               <l>Yet I by thouſands, Robbe and Spoile, and Kill them.</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>And muſt perſiſt my ſon, for untill they!</l>
+               <l>Be beaten down, my Scepter cannot ſway.</l>
+            </sp>
+            <sp>
+               <speaker>In.</speaker>
+               <l>I've tane away their darling and protector,</l>
+               <l>And (heartleſſe) left them, headleſſe ſons director.</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>But I'm afraid his paſſion hurt us more</l>
+               <l>Then all his actions in his life before:</l>
+               <l>It rent our maske, and like t'have laid ope</l>
+               <l>All our Ambuſhments, and ſiniſter ſcope,</l>
+               <l>So that we now muſt preach, and prate, and ſtraine</l>
+               <l>Both art and armes, t'inveſt our ſhape againe.</l>
+            </sp>
+            <sp>
+               <speaker>In.</speaker>
+               <l>Fear not (my Syre) our ſale tongu'd brother <hi>Lenthall,</hi>
+               </l>
+               <l>Is a brave toole, I'le warrant he'le invent all;</l>
+               <l>Direct but his tongue, (dear patron of our lies)</l>
+               <l>And he'le patch up the rent of our diſguiſe.</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>I doubt it (ſon) whether the name of King,</l>
+               <l>(The peoples I doll) doth a terrour bring;</l>
+               <l>That a <hi>Plebeian</hi> rabble ſhould depoſe,</l>
+               <l>Him whom th' Almighty, for Lieutenant choſe:</l>
+               <l>Or rather (as I gueſſe) cauſe we pretended</l>
+               <l>We fought to have abuſes but amended,</l>
+               <l>For <hi>Englands</hi> glory, and for <hi>Charls</hi> His good,</l>
+               <l>Not for His Scepter much leſſe for His bloud,</l>
+               <l>Have ſeiz'd the peoples judgement, as they dare,</l>
+               <l>Their grumbling ſhews they diſcontented are;</l>
+               <l>
+                  <pb n="3" facs="tcp:165175:3"/>
+                  <!-- PDF PAGE 63 -->
+Our King beheaded! what harmleſſe Angel ſmile,</l>
+               <l>Could our miſ-grounded zeal thus far beguile,</l>
+               <l>To think our Church and State could be amended</l>
+               <l>By killing Him, who ſhould have both defended:</l>
+               <l>O horrid folly! where were our wits? our faith</l>
+               <l>To credit him who lies, what e're he ſaith;</l>
+               <l>A Godly zeal, before which we thought right,</l>
+               <l>Proves now the Devil, turn'd to an Angel bright,</l>
+               <l>But now enlightned, and adviſed well</l>
+               <l>We him defie that taught us to Rebell;</l>
+               <l>Satan no more, nor all his ſmooth tongu'd tooles,</l>
+               <l>At once ſhall make us traytours, thieves and fooles,</l>
+               <l>Thus cryes the people, and what e're they cry,</l>
+               <l>Concludes a helliſh act, that <hi>Charls</hi> ſhould die.</l>
+            </sp>
+            <sp>
+               <speaker>In.</speaker>
+               <l>Tuſh let them twat, aſſure but you your promiſe,</l>
+               <l>Unto your famous Deputy Sir <hi>Thomas,</hi>
+               </l>
+               <l>And your dear minion <hi>Cromwell,</hi> who can ſpeak</l>
+               <l>And fight, and preach, by vertue of his beake;</l>
+               <l>Keep theſe your friends (as there's no other doubt,</l>
+               <l>And we ſhall yet bring matters brave about.</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>Fear not (my child) and that thou better may</l>
+               <l>Diſcerne thy friends, and thoſe who me obey,</l>
+               <l>In honour of that Noſe of Noſes, each</l>
+               <l>Mans Noſe ſhall be a conduit for his ſpeech,</l>
+               <l>And thoſe who keep my laws, and <hi>Cromwels</hi> duly,</l>
+               <l>Shall dwindle their lies, which a ſniv'ling <hi>truly, truly.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>In.</speaker>
+               <l>But father you were ſaying we muſt preach,</l>
+               <l>Tell us what doctrine is moſt fit to teach;</l>
+               <l>We are unlearned, know not what to ſay,</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>But I'le inſpire you when you preach or pray;</l>
+               <l>Thou ſe'ſt already, I have ſtopt the mouth</l>
+               <l>That did oppoſe me; looke from North to South,</l>
+               <l>
+                  <pb n="4" facs="tcp:165175:4"/>
+                  <!-- PDF PAGE 64 -->
+And there's not any orthodoxall tongue</l>
+               <l>Allow'd to tell my vaſſals they'r i'th' wrong.</l>
+               <l>The way is clear, and that thou maiſt do well</l>
+               <l>Take from before their thoughts the fear of Hell,</l>
+               <l>This leſſon taught it quickly will appear</l>
+               <l>Who loves God for love, and loves him but for fear;</l>
+               <l>And I believe a ſmall Arithmetick</l>
+               <l>Will tell the number that to God will ſtick,</l>
+               <l>For from the guilt, take puniſhment of ſin</l>
+               <l>And love of God will not reſtraine 'em in:</l>
+               <l>This to do better take a way the Law</l>
+               <l>Give them the Reines, force not but ſlylie draw,</l>
+               <l>The Law being ta'ne away, ſin is not known</l>
+               <l>And ſo the game is up, the dayes our own;</l>
+               <l>Tell them that Chriſt hath dy'd there needs no more</l>
+               <l>But a bare belief, the reſt may paſſe o'th' ſcore,</l>
+               <l>That heavens their own by letters pattent granted,</l>
+               <l>And there's no ſin can damn the Covenanted:</l>
+               <l>Stile groſſeſt ſins, ſlips of infirmity</l>
+               <l>And Chriſtian duties falſe Idolatry.</l>
+               <l>And haſt thou not read how I at firſt did fanne</l>
+               <l>My powerfull breath into the new made man,</l>
+               <l>Who with ſoft glozes of my palliation,</l>
+               <l>Of his eſtate deſir'd an allienation,</l>
+               <l>Becauſe (forfooth) 'twould make free and brave,</l>
+               <l>A <hi>Leveller</hi> with God (before a ſlave)</l>
+               <l>This bait of freedome (by experience try'd)</l>
+               <l>Hath won me more then all the ſhifts beſide:</l>
+               <l>This is, ſo ſweet a morſell that the beſt</l>
+               <l>Shall ſcarce reſiſt but yeild down with the reſt,</l>
+               <l>And their affections better for to ſteale,</l>
+               <l>Tell them his God your Doctrine doth reveale</l>
+               <l>
+                  <pb n="5" facs="tcp:165175:4"/>
+                  <!-- PDF PAGE 64 -->
+Enthuſiaſmes, and ſoule ſweating ſence,</l>
+               <l>And couch't in fair, yet ſniv'ling eloquence,</l>
+               <l>And let the actions (for a ſeaſon) read</l>
+               <l>As you were Gods Embaſſadors indeed;</l>
+               <l>For (I by Gods permiſſion) can appear</l>
+               <l>Like God himſelf to thoſe we do not fear,</l>
+               <l>This is enough (my ſon) this will intice'em</l>
+               <l>And gold, and glory, to ambition hoize 'em;</l>
+               <l>That caſt them headlong to my horrid vault</l>
+               <l>Where I remaine juſt for the ſelf ſame fault.</l>
+            </sp>
+            <sp>
+               <speaker>In.</speaker>
+               <l>What are the Presbyterians, their opinion,</l>
+               <l>Belong not they wholly to your dominion?</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>Yet, they're mine own, yet I have more ado</l>
+               <l>To compaſſe one of them then two of you,</l>
+               <l>They play with bait as though they would be gon,</l>
+               <l>But thou canſt ſwallow ought (mine only ſon)</l>
+               <l>He is the baſtard, thou the lawfull heire,</l>
+               <l>He may be reft but thou'rt entailed here;</l>
+               <l>I'm father to you both, but this in worſt</l>
+               <l>Thou with my ſelfe, but he abroad was nurſt;</l>
+            </sp>
+            <sp>
+               <speaker>In.</speaker>
+               <l>Now I'm reſolv'd yet I had like forgot</l>
+               <l>Laſt ſummers oppoſition to the <hi>Scot,</hi>
+               </l>
+               <l>For as two brethren living both together,</l>
+               <l>May fall at variance even about a feather,</l>
+               <l>Yet when a ſtranger comes to injure either</l>
+               <l>They then unite fraternally together;</l>
+               <l>So when the Royall party came againſt us</l>
+               <l>We differ'd not, but joyntly both advanc'd us</l>
+               <l>In oppoſition to the right, (truely)</l>
+               <l>Enſtiling them the common enemy:</l>
+               <l>But brother-hood is ſtrong, and I ſurmis'd</l>
+               <l>We ſtill were ſo, but with falſe names diſguis'd,</l>
+               <l>
+                  <pb n="6" facs="tcp:165175:5"/>
+                  <!-- PDF PAGE 65 -->
+But father tell me, there's a rumour flying,</l>
+               <l>Which be it true our comforts are a dying,</l>
+               <l>How <hi>Charls the Second</hi> wi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h his Royall band</l>
+               <l>Prepared are, for to invade the Land,</l>
+               <l>To aſſume His lawfull Crown, and Regall rod,</l>
+               <l>To beat down thee, and thine, and ſet up God,</l>
+               <l>To give the Laws both Civill and Divine</l>
+               <l>Their proper vigor, and to cancell thine;</l>
+               <l>This's the reſult of neighbour Nations all,</l>
+               <l>This muſt thou quaſh, or take a beaſtly fall.</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>Fear not my child, I ſeldome yet did faile thee,</l>
+               <l>When the true Royaliſts came for to aſſaile thee,</l>
+               <l>Yet thou muſt know my ſon (to both our grief)</l>
+               <l>I'm but a ſervant, not a Lord in chief,</l>
+               <l>Our maker dread in the Almighties chaines,</l>
+               <l>At his free-will, my purpoſes reſtraines,</l>
+               <l>But I'le indeavour if he give me way</l>
+               <l>To act my part within their ſecond play,</l>
+               <l>Where God hath ſowne his wheat, I'le ſow my tares,</l>
+               <l>Pride and ambition, and a thouſand cares,</l>
+               <l>But yet (alas) I wofully preſage</l>
+               <l>They will retort againſt me all my rage.</l>
+               <l>To <hi>London</hi> they in triumph great will come,</l>
+               <l>And place King <hi>Charls</hi> upon His Fathers Throne.</l>
+            </sp>
+            <sp>
+               <speaker>In.</speaker>
+               <l>Why truly this is ſad, yet I deſire</l>
+               <l>Your diligence might quench this kindling fire:</l>
+               <l>We all are yours you know, what do you doubt</l>
+               <l>That any of us may chance to face about?</l>
+               <l>That you ſo ſhort a period have ſet</l>
+               <l>Unto our reigne? what do you fear your net</l>
+               <l>'s not ſtrong enough to hold your hampered ſlaves?</l>
+               <l>Muſt all our trophees turne into our grave?</l>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:165175:5"/>
+               <!-- PDF PAGE 65 -->
+               <speaker>Dev.</speaker>
+               <l>Remember (ſon) that thou haſt reigned long,</l>
+               <l>And vengeance only unto God belong;</l>
+               <l>The cryes o'th' poor, Widows and Orphans tears,</l>
+               <l>Have ſcal'd the heavens, and pierc'd th' Almighties cares,</l>
+               <l>Fight dog, fight bear, I weigh it not a chip,</l>
+               <l>What's that to me, I have thee now o'tho' hip;</l>
+               <l>Thou like a Tyrant, long enough haſt ſway'd,</l>
+               <l>The Feaſt is pleaſant till the Reckoning's paid:</l>
+               <l>But I'le away, and to their Councels hye,</l>
+               <l>And I'le aſſure thee live untill thou dye:</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <p>Fare ill, fare well, adiew,</p>
+            </sp>
+            <sp>
+               <speaker>In.</speaker>
+               <l>Nay father ſtay</l>
+               <l>Set me on work before you go away,</l>
+               <l>I'm dutifull enough;</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>Then ſee my ſon</l>
+               <l>Thy actions in their wonted channell run;</l>
+               <l>Plunder, ſequeſter, pole, pill, fleece and flay them,</l>
+               <l>Uſe them as Spunges (dry'd) diſpatch and ſlay them</l>
+               <l>With ſudda in death, the lives of Nobles ſtop,</l>
+               <l>But poorer ſneakes bleed a way drop by drop,</l>
+               <l>And more and more, ſtill as our foes increaſes,</l>
+               <l>So let our rage; as <hi>Lizards</hi> cut in pieces,</l>
+               <l>Threats with more malice, though with leſſer might,</l>
+               <l>And even in dying, ſhew their living ſpite,</l>
+               <l>And ſo adiew, untill we meet in Hell,</l>
+            </sp>
+            <sp>
+               <speaker>In.</speaker>
+               <p>Both to depart (they ſay) bids oft farewell.</p>
+            </sp>
+         </div>
+         <div type="poem">
+            <pb n="8" facs="tcp:165175:6"/>
+            <!-- PDF PAGE 66 -->
+            <head>Similes Similibus gaudent.</head>
+            <l>I To <hi>Weſtminſter</hi> do direct this book,</l>
+            <l>To Butcher <hi>Bradſhaw,</hi> and his turn-ſpit <hi>Cook;</hi>
+            </l>
+            <l>Here may they ſee their Parent, and the root</l>
+            <l>Whence all their Treaſon firſt was ſet on foot:</l>
+            <l>For why, the Devil is Synechdochicall,</l>
+            <l>Speaking to one what he intends to all.</l>
+            <l>And though I know their Patron's alwayes nigh'em,</l>
+            <l>(Becauſe they ſit and hold their Charter by him)</l>
+            <l>Yet here they may perceive their ſervice paſt</l>
+            <l>Shall be rewarded, either firſt or laſt.</l>
+            <l>Theſe are the Devils two hands to bring about</l>
+            <l>The trophees, of <hi>Tom foole</hi> and <hi>Copper ſnout;</hi>
+            </l>
+            <l>And I ſuppoſe, ſo loath they're to deſpiſe it,</l>
+            <l>They'le guild my fiſt with <hi>Greeks,</hi> and patronize it,</l>
+            <l>For Gods ſake they'le do nothing, 'cauſe they owe</l>
+            <l>All to their father <hi>Nick,</hi> ſave outward ſhowe.</l>
+            <l>But if theſe <hi>Tyburne</hi> Twins do rage and fret,</l>
+            <l>And threat my throat with tying from my meat</l>
+            <l>To uſher them, then ſhall they know that I,</l>
+            <l>As I have liv'd, am well reſolv'd to dye.</l>
+            <l>Thou that art honeſt, read; thou'rt welcome hither,</l>
+            <l>To hear the Devil and's Child confer together;</l>
+            <l>And I'm perſwaded, all thou here wilt read</l>
+            <l>Shall be agniz'd an Article of thy Creed.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
